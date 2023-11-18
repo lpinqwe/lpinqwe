@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I finally create readme about myself on GITHUB!!!!
+- 🌱 I’m currently study at agh
 <!--
 **lpinqwe/lpinqwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
