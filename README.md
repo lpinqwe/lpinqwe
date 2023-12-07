@@ -1,7 +1,7 @@
 ### Hi there 👋
 I finally create readme about myself on GITHUB!!!!
 - 🌱 I’m currently study at agh
-- znalazłem zbliżony temat: link do [zforkowanego git](https://github.com/lpinqwe/HAR-stacked-residual-bidir-LSTMs)
+- znalazłem zbliżony temat: link do [zforkowanego git](https://github.com/lpinqwe/HAR-stacked-residual-bidir-LSTMs), link do temat [źródła](https://www.researchgate.net/publication/300797898_Behavioral_Telemetry_in_Games_User_Research)
 <!--
 **lpinqwe/lpinqwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
